@@ -4,11 +4,12 @@
  * @Github: https://github.com/hyhhhhhhhh
  * @Date: 2020-12-18 20:27:06
  * @LastEditors: Box
- * @LastEditTime: 2021-01-10 14:23:49
+ * @LastEditTime: 2021-01-10 14:26:11
 -->
 # SAMPLE语言实验
-SAMPLE语言定义 见 编译实验.doc
-
+SAMPLE语言定义 见 编译实验.doc 
+    
+See **https://www.wolai.com/izRiL92CTYpXjVJQ8tUGSv?theme=light** for more details
 
 ## 实验一代码
 compiler\.py
