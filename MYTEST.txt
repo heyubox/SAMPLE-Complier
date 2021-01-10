@@ -1,0 +1,14 @@
+program helloworld;
+    var a1, b2, c, c1: integer;
+   begin
+a1:=1; b2:=123; c:=21; c1:=b2*314 + ((a1-b2));
+if (a1 + b2 * 12 - 23 / b2) + 1<> 213  or false and c
+	then while a1 or 12 + b2 <= c		do
+   repeat a1:=1 until c and c*12 - c1 + (b2)  > a1
+else
+begin
+a1:= b2 + c / (3+0);
+if not (a1 = b2) or not (false and c <> c1) then a1:=b2
+end;
+a1:=1
+end.
